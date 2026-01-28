@@ -1,0 +1,13 @@
+@import url('https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This sets a dark background for the whole page */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #0f172a;
+}
