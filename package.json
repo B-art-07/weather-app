@@ -1,5 +1,6 @@
 {
   "name": "my-weather-app",
+  "homepage": "https://B-art-07.github.io/weather-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
